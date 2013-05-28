@@ -1,5 +1,0 @@
-total 1
--rw-r--r--    1 John     Administ      688 May 27 19:34 Map.iml
--rw-r--r--    1 John     Administ        0 May 28  2013 file2.txt
-drwxr-xr-x    3 John     Administ        0 May 27 19:34 out
-drwxr-xr-x    3 John     Administ        0 May 27 19:16 src
